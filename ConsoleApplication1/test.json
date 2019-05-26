@@ -1,0 +1,696 @@
+{
+	"Name":"HE",
+	"DateCreated":"Mon, 25.02.2019 11:00:10",
+	"Files": [
+	{
+		"Name":"some.pdf",
+		"Size":"935 B",
+		"Path":"C:\\HE\\some.pdf"
+	}
+	],
+	"Childen": [
+	{
+		"Name":"DocCenter",
+		"DateCreated":"Mon, 25.02.2019 11:00:10",
+		"Files": [
+		{
+			"Name":"TESTTEST1#-TESTTEST1-TESTTEST1-201905131301203127 - Copy.pdf",
+			"Size":"429939 B",
+			"Path":"C:\\HE\\DocCenter\\TESTTEST1#-TESTTEST1-TESTTEST1-201905131301203127 - Copy.pdf"
+		},
+		{
+			"Name":"TESTTEST1#-TESTTEST1-TESTTEST1-201905131301203127.pdf",
+			"Size":"429939 B",
+			"Path":"C:\\HE\\DocCenter\\TESTTEST1#-TESTTEST1-TESTTEST1-201905131301203127.pdf"
+		}
+		],
+		"Childen": [
+		{
+			"Name":"Files",
+			"DateCreated":"Mon, 25.02.2019 11:00:13",
+			"Files": [
+			{
+				"Name":"FDSAFDAS#-XXXXXXXXXXXXXXXXXX-FDASFDASFD-201903142217102666.pdf",
+				"Size":"47586 B",
+				"Path":"C:\\HE\\DocCenter\\Files\\FDSAFDAS#-XXXXXXXXXXXXXXXXXX-FDASFDASFD-201903142217102666.pdf"
+			},
+			{
+				"Name":"FDSAFDAS#-XXXXXXXXXXXXXXXXXX-FDASFDASFD-201903142224501812.pdf",
+				"Size":"3083430 B",
+				"Path":"C:\\HE\\DocCenter\\Files\\FDSAFDAS#-XXXXXXXXXXXXXXXXXX-FDASFDASFD-201903142224501812.pdf"
+			}
+			],
+			"Childen": [
+			]
+
+		},
+		{
+			"Name":"Videos",
+			"DateCreated":"Wed, 13.03.2019 14:51:36",
+			"Files": [
+			{
+				"Name":"TESTTEST1#-TESTTEST1-TESTTEST1-201905131301203127.pdf",
+				"Size":"429939 B",
+				"Path":"C:\\HE\\DocCenter\\Videos\\TESTTEST1#-TESTTEST1-TESTTEST1-201905131301203127.pdf"
+			}
+			],
+			"Childen": [
+			{
+				"Name":"SubVidoDirectory",
+				"DateCreated":"Sat, 25.05.2019 00:13:02",
+				"Files": [
+
+				],
+				"Childen": [
+				]
+
+			}
+			]
+
+		}
+		]
+
+	},
+	{
+		"Name":"Drawings",
+		"DateCreated":"Thu, 18.04.2019 17:37:32",
+		"Files": [
+
+		],
+		"Childen": [
+		{
+			"Name":"Files",
+			"DateCreated":"Thu, 18.04.2019 17:37:49",
+			"Files": [
+			{
+				"Name":"1111111111111111111222222222-111111111111111111-201904190948045730.PDF",
+				"Size":"87490 B",
+				"Path":"C:\\HE\\Drawings\\Files\\1111111111111111111222222222-111111111111111111-201904190948045730.PDF"
+			},
+			{
+				"Name":"5555555555555555555555555-5555555555555555555555555-201904192201056870.pdf",
+				"Size":"87490 B",
+				"Path":"C:\\HE\\Drawings\\Files\\5555555555555555555555555-5555555555555555555555555-201904192201056870.pdf"
+			},
+			{
+				"Name":"DADFAS-FSAFDAS-201905061256383200.pdf",
+				"Size":"4764730 B",
+				"Path":"C:\\HE\\Drawings\\Files\\DADFAS-FSAFDAS-201905061256383200.pdf"
+			},
+			{
+				"Name":"DADSASAD2222-DSADSADSA-201904191217237630.PDF",
+				"Size":"105251 B",
+				"Path":"C:\\HE\\Drawings\\Files\\DADSASAD2222-DSADSADSA-201904191217237630.PDF"
+			},
+			{
+				"Name":"DASFD-FADSFDAS-201904192159378530.pdf",
+				"Size":"77262 B",
+				"Path":"C:\\HE\\Drawings\\Files\\DASFD-FADSFDAS-201904192159378530.pdf"
+			},
+			{
+				"Name":"DSFDASFDDDDDDDDDD111111122222222222-SAFDASFDAS-201904211216455000.PDF",
+				"Size":"87490 B",
+				"Path":"C:\\HE\\Drawings\\Files\\DSFDASFDDDDDDDDDD111111122222222222-SAFDASFDAS-201904211216455000.PDF"
+			},
+			{
+				"Name":"K23333344422-K2221-201904190952358870.PDF",
+				"Size":"77262 B",
+				"Path":"C:\\HE\\Drawings\\Files\\K23333344422-K2221-201904190952358870.PDF"
+			},
+			{
+				"Name":"Q1233333333333-Q-201904190950253570.PDF",
+				"Size":"87490 B",
+				"Path":"C:\\HE\\Drawings\\Files\\Q1233333333333-Q-201904190950253570.PDF"
+			},
+			{
+				"Name":"Q3-Q-201904190950255430.PDF",
+				"Size":"87490 B",
+				"Path":"C:\\HE\\Drawings\\Files\\Q3-Q-201904190950255430.PDF"
+			},
+			{
+				"Name":"QQQQQQQQQQQQQ-QQQQQQQQQQQQQ-201905061254535200.pdf",
+				"Size":"4764730 B",
+				"Path":"C:\\HE\\Drawings\\Files\\QQQQQQQQQQQQQ-QQQQQQQQQQQQQ-201905061254535200.pdf"
+			},
+			{
+				"Name":"SASDADSA-DSADSADSA-201905061254406400.pdf",
+				"Size":"4764730 B",
+				"Path":"C:\\HE\\Drawings\\Files\\SASDADSA-DSADSADSA-201905061254406400.pdf"
+			},
+			{
+				"Name":"TEST-TEST-201905061659476970.pdf",
+				"Size":"4764730 B",
+				"Path":"C:\\HE\\Drawings\\Files\\TEST-TEST-201905061659476970.pdf"
+			},
+			{
+				"Name":"TESTAPP1111-B-190001010000000000.PDF",
+				"Size":"87490 B",
+				"Path":"C:\\HE\\Drawings\\Files\\TESTAPP1111-B-190001010000000000.PDF"
+			},
+			{
+				"Name":"VVV-VV.pdf",
+				"Size":"3083430 B",
+				"Path":"C:\\HE\\Drawings\\Files\\VVV-VV.pdf"
+			}
+			],
+			"Childen": [
+			]
+
+		}
+		]
+
+	},
+	{
+		"Name":"Drawings Temp",
+		"DateCreated":"Wed, 10.04.2019 09:11:22",
+		"Files": [
+		{
+			"Name":"1111.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\1111.pdf"
+		},
+		{
+			"Name":"11111.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\11111.pdf"
+		},
+		{
+			"Name":"111111.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\111111.pdf"
+		},
+		{
+			"Name":"11111111.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\11111111.pdf"
+		},
+		{
+			"Name":"1751S06.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\1751S06.pdf"
+		},
+		{
+			"Name":"A.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\A.pdf"
+		},
+		{
+			"Name":"AAAAAAAAAAAAAAA.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\AAAAAAAAAAAAAAA.pdf"
+		},
+		{
+			"Name":"D.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\D.pdf"
+		},
+		{
+			"Name":"DASDADS.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\DASDADS.pdf"
+		},
+		{
+			"Name":"DDDDD.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\DDDDD.pdf"
+		},
+		{
+			"Name":"FDSADFASFDSA.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\FDSADFASFDSA.pdf"
+		},
+		{
+			"Name":"FDSAFDAS.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\FDSAFDAS.pdf"
+		},
+		{
+			"Name":"H3-1000-1.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\H3-1000-1.pdf"
+		},
+		{
+			"Name":"H3-2145-7.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\H3-2145-7.pdf"
+		},
+		{
+			"Name":"PPPPPPPPPPPPP.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\PPPPPPPPPPPPP.pdf"
+		},
+		{
+			"Name":"TEST.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\TEST.pdf"
+		},
+		{
+			"Name":"VVVV.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\VVVV.pdf"
+		},
+		{
+			"Name":"ZXXXXXX.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\ZXXXXXX.pdf"
+		},
+		{
+			"Name":"ZZZZZZZZZZZ.pdf",
+			"Size":"433994 B",
+			"Path":"C:\\HE\\Drawings Temp\\ZZZZZZZZZZZ.pdf"
+		}
+		],
+		"Childen": [
+		]
+
+	},
+	{
+		"Name":"FirstPieceInspection",
+		"DateCreated":"Thu, 25.04.2019 12:08:56",
+		"Files": [
+
+		],
+		"Childen": [
+		{
+			"Name":"Files",
+			"DateCreated":"Thu, 25.04.2019 12:09:31",
+			"Files": [
+			{
+				"Name":"H3-1899-188-NEW-C-201905061734063270.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\H3-1899-188-NEW-C-201905061734063270.PDF"
+			},
+			{
+				"Name":"H3-1899S700-1-A-201905061020285200.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\H3-1899S700-1-A-201905061020285200.PDF"
+			},
+			{
+				"Name":"H3-1899S700-1-B-201904251715217030.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\H3-1899S700-1-B-201904251715217030.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251208163930.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251208163930.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251507027470.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251507027470.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251507461170.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251507461170.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251515535900.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251515535900.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251516202400.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251516202400.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251529442670.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251529442670.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251544011430.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251544011430.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251553551770.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251553551770.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251604389000.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251604389000.PDF"
+			},
+			{
+				"Name":"Test-Test-201904251605122300.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904251605122300.PDF"
+			},
+			{
+				"Name":"Test-Test-201904261009095470.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904261009095470.PDF"
+			},
+			{
+				"Name":"Test-Test-201904261235003600.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904261235003600.PDF"
+			},
+			{
+				"Name":"Test-Test-201904261436525330.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904261436525330.PDF"
+			},
+			{
+				"Name":"Test-Test-201904301413393430.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904301413393430.PDF"
+			},
+			{
+				"Name":"Test-Test-201904301414492430.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904301414492430.PDF"
+			},
+			{
+				"Name":"Test-Test-201904301508214130.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904301508214130.PDF"
+			},
+			{
+				"Name":"Test-Test-201904301508292070.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201904301508292070.PDF"
+			},
+			{
+				"Name":"Test-Test-201905031502320470.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201905031502320470.PDF"
+			},
+			{
+				"Name":"Test-Test-201905031503375830.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201905031503375830.PDF"
+			},
+			{
+				"Name":"Test-Test-201905031704066970.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201905031704066970.PDF"
+			},
+			{
+				"Name":"Test-Test-201905031709130100.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201905031709130100.PDF"
+			},
+			{
+				"Name":"Test-Test-201905031710251200.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201905031710251200.PDF"
+			},
+			{
+				"Name":"Test-Test-201905031710270100.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201905031710270100.PDF"
+			},
+			{
+				"Name":"Test-Test-201905031712580070.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201905031712580070.PDF"
+			},
+			{
+				"Name":"Test-Test-201905032016226700.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test-Test-201905032016226700.PDF"
+			},
+			{
+				"Name":"Test1111111111-Test-201904260933253700.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test1111111111-Test-201904260933253700.PDF"
+			},
+			{
+				"Name":"Test21-Test-201905031822488330.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test21-Test-201905031822488330.PDF"
+			},
+			{
+				"Name":"Test22-Test-201904260932095400.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201904260932095400.PDF"
+			},
+			{
+				"Name":"Test22-Test-201904261014011430.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201904261014011430.PDF"
+			},
+			{
+				"Name":"Test22-Test-201904261014265530.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201904261014265530.PDF"
+			},
+			{
+				"Name":"Test22-Test-201904261015142170.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201904261015142170.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500043100.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500043100.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500051900.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500051900.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500198200.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500198200.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500204000.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500204000.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500210700.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500210700.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500213230.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500213230.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500221000.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500221000.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500227670.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500227670.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031500228470.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031500228470.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031501117800.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031501117800.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031501271230.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031501271230.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031502072070.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031502072070.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031504126070.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031504126070.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031504154070.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031504154070.PDF"
+			},
+			{
+				"Name":"Test22-Test-201905031505227400.PDF",
+				"Size":"15702 B",
+				"Path":"C:\\HE\\FirstPieceInspection\\Files\\Test22-Test-201905031505227400.PDF"
+			}
+			],
+			"Childen": [
+			]
+
+		}
+		]
+
+	},
+	{
+		"Name":"NDA",
+		"DateCreated":"Thu, 23.05.2019 16:14:09",
+		"Files": [
+		{
+			"Name":"CV-201905241530116665.pdf",
+			"Size":"77262 B",
+			"Path":"C:\\HE\\NDA\\CV-201905241530116665.pdf"
+		},
+		{
+			"Name":"CV-201905241621323963.pdf",
+			"Size":"77262 B",
+			"Path":"C:\\HE\\NDA\\CV-201905241621323963.pdf"
+		},
+		{
+			"Name":"CV-201905241713098251.pdf",
+			"Size":"77262 B",
+			"Path":"C:\\HE\\NDA\\CV-201905241713098251.pdf"
+		},
+		{
+			"Name":"CV-201905241714499225.pdf",
+			"Size":"77262 B",
+			"Path":"C:\\HE\\NDA\\CV-201905241714499225.pdf"
+		},
+		{
+			"Name":"CV-201905241716106302.pdf",
+			"Size":"77262 B",
+			"Path":"C:\\HE\\NDA\\CV-201905241716106302.pdf"
+		},
+		{
+			"Name":"CV-201905241718453764.pdf",
+			"Size":"77262 B",
+			"Path":"C:\\HE\\NDA\\CV-201905241718453764.pdf"
+		},
+		{
+			"Name":"CV-201905241720516909.pdf",
+			"Size":"77262 B",
+			"Path":"C:\\HE\\NDA\\CV-201905241720516909.pdf"
+		},
+		{
+			"Name":"CV-201905241724304952.pdf",
+			"Size":"77262 B",
+			"Path":"C:\\HE\\NDA\\CV-201905241724304952.pdf"
+		},
+		{
+			"Name":"Ivan_Kiselychnyk_resume-201905241715098454.pdf",
+			"Size":"429939 B",
+			"Path":"C:\\HE\\NDA\\Ivan_Kiselychnyk_resume-201905241715098454.pdf"
+		},
+		{
+			"Name":"Ivan_Kiselychnyk_resume-201905241720097036.pdf",
+			"Size":"429939 B",
+			"Path":"C:\\HE\\NDA\\Ivan_Kiselychnyk_resume-201905241720097036.pdf"
+		},
+		{
+			"Name":"Ivan_Kiselychnyk_resume-201905241723485986.pdf",
+			"Size":"429939 B",
+			"Path":"C:\\HE\\NDA\\Ivan_Kiselychnyk_resume-201905241723485986.pdf"
+		},
+		{
+			"Name":"Ivan_Kiselychnyk_resume-201905241725520682.pdf",
+			"Size":"429939 B",
+			"Path":"C:\\HE\\NDA\\Ivan_Kiselychnyk_resume-201905241725520682.pdf"
+		},
+		{
+			"Name":"Ivan_Kiselychnyk_resume-201905241733561589.pdf",
+			"Size":"429939 B",
+			"Path":"C:\\HE\\NDA\\Ivan_Kiselychnyk_resume-201905241733561589.pdf"
+		}
+		],
+		"Childen": [
+		]
+
+	},
+	{
+		"Name":"TrainingOriginalVideosPath",
+		"DateCreated":"Thu, 14.03.2019 16:47:12",
+		"Files": [
+
+		],
+		"Childen": [
+		]
+
+	},
+	{
+		"Name":"TrainingTransactionVideosPath",
+		"DateCreated":"Thu, 14.03.2019 17:12:15",
+		"Files": [
+		{
+			"Name":"DDDDDDDDDDDD#-DDDDDDDDDDDD-DDDDDDDDDDDD-201903211534011590.mp4",
+			"Size":"73865310 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\DDDDDDDDDDDD#-DDDDDDDDDDDD-DDDDDDDDDDDD-201903211534011590.mp4"
+		},
+		{
+			"Name":"FF#-FF-FF-201903251117207362.mkv",
+			"Size":"383631 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\FF#-FF-FF-201903251117207362.mkv"
+		},
+		{
+			"Name":"FF#-FF-FF-201903251126380371.mkv",
+			"Size":"383631 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\FF#-FF-FF-201903251126380371.mkv"
+		},
+		{
+			"Name":"FFXX#-FF-FF-201903281310135208.mp4",
+			"Size":"73865310 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\FFXX#-FF-FF-201903281310135208.mp4"
+		},
+		{
+			"Name":"FFXXX#-FF-FF-201903280932231339.mp4",
+			"Size":"73865310 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\FFXXX#-FF-FF-201903280932231339.mp4"
+		},
+		{
+			"Name":"KKKKKKKKKKA#-KKKKKKKKKKA-KKKKKKKKKKA-201903251224211732.mp4",
+			"Size":"31551484 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\KKKKKKKKKKA#-KKKKKKKKKKA-KKKKKKKKKKA-201903251224211732.mp4"
+		},
+		{
+			"Name":"SSSSSSSSSSSS#-SSSSSSSSSSSS-SSSSSSSSSSSS-201903251052102893.mp4",
+			"Size":"31551484 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\SSSSSSSSSSSS#-SSSSSSSSSSSS-SSSSSSSSSSSS-201903251052102893.mp4"
+		},
+		{
+			"Name":"TES#-AS-A-201903211535120789.mp4",
+			"Size":"31551484 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\TES#-AS-A-201903211535120789.mp4"
+		},
+		{
+			"Name":"TEST3#-TEST-TEST-201903281312060661.mp4",
+			"Size":"73865310 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\TEST3#-TEST-TEST-201903281312060661.mp4"
+		},
+		{
+			"Name":"XXXXXXXXXX#-XXXXXXXXXX-XXXXXXXXXX-201903251059017707.mp4",
+			"Size":"31551484 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\XXXXXXXXXX#-XXXXXXXXXX-XXXXXXXXXX-201903251059017707.mp4"
+		},
+		{
+			"Name":"XXXXXXXXXXXXX#-XXXXXXXXXXXXX-XXXXXXXXXXXXX-201903280915590721.mp4",
+			"Size":"73865310 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\XXXXXXXXXXXXX#-XXXXXXXXXXXXX-XXXXXXXXXXXXX-201903280915590721.mp4"
+		},
+		{
+			"Name":"XXXXXXXXXXXXXXXXXX#-XXXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXX-201903251233450997.mov",
+			"Size":"383631 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\XXXXXXXXXXXXXXXXXX#-XXXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXX-201903251233450997.mov"
+		},
+		{
+			"Name":"ÀÂÔ²ÂÀÔ²#-ÀÂÔ²ÀÂ-²ÔÀÂÔ²ÀÂÔ²-201903221720230439.mp4",
+			"Size":"-1 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\ÀÂÔ²ÂÀÔ²#-ÀÂÔ²ÀÂ-²ÔÀÂÔ²ÀÂÔ²-201903221720230439.mp4"
+		},
+		{
+			"Name":"ÀÂÔ²ÂÀÔ²#-ÀÂÔ²ÀÂ-²ÔÀÂÔ²ÀÂÔ²-201903251234081729.mkv",
+			"Size":"-1 B",
+			"Path":"C:\\HE\\TrainingTransactionVideosPath\\ÀÂÔ²ÂÀÔ²#-ÀÂÔ²ÀÂ-²ÔÀÂÔ²ÀÂÔ²-201903251234081729.mkv"
+		}
+		],
+		"Childen": [
+		]
+
+	}
+	]
+
+}
